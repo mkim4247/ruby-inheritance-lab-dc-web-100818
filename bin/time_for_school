@@ -34,3 +34,7 @@ mike.last_name = "Kim"
 mike.learn(more_knowledge)
 
 puts "Mike just learned this important knowledge: '#{mike.knowledge.first}' from Avi"
+
+jim = User.new
+jim.first_name = "Jim"
+jim.last_name = "Kim"
